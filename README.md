@@ -1,7 +1,5 @@
 <img src="./intro.svg" alt="hi, i'm ahmard — i'm a solo builder" width="100%" />
 
-<img src="./banner.svg" alt="AHMARD — Web3 builder" width="100%" />
-
 ## 🪪 Builder ID
 
 <img src="./dialog.svg" alt="AHMARD: Hey there! I'm Ahmard. I build Web3 apps and Telegram AI agents, and grow the communities around them." width="100%" />
