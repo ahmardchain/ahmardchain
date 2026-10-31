@@ -2,7 +2,7 @@
 
 ```
 ROLE ......... Web3 Builder
-FOCUS ........ Consumer Web3 · Telegram AI Agents · Trading Tools
+SPECIALTY ........ Consumer Web3 · AI Agents · Trading Tools
 BUILDING ..... social bounties & on-chain payouts
                prediction-market copilots & perps bots
                community growth across Telegram, Discord & X
