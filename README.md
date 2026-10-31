@@ -1,4 +1,4 @@
-## 👾 Player Profile
+## 🪪 Builder ID
 
 <img src="./dialog.svg" alt="AHMARD: Hey there! I'm Ahmard. I build Web3 apps and Telegram AI agents, and grow the communities around them." width="100%" />
 
