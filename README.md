@@ -6,6 +6,8 @@ BUILDING ..... social bounties & on-chain payouts
                community growth across Telegram, Discord & X
 ```
 
+<img alt="Ahmad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmardchain&show_icons=true&include_all_commits=true&count_private=true&bg_color=1d2b53&title_color=ffec27&text_color=fff1e8&icon_color=29adff&ring_color=ff004d&border_color=0b1229&border_radius=0" />
+
 <!--
 **ahmardchain/ahmardchain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
