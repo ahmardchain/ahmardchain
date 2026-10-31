@@ -1,10 +1,10 @@
-```
-CLASS ........ Builder · Growth Lead
-SPECIALTY .... Consumer Web3 · Telegram AI Agents · Trading Tools
-QUEST LOG .... social bounties & on-chain payouts
-               prediction-market copilots & perps bots
-               community growth across Telegram, Discord & X
-```
+## Hi, I'm Ahmad 👋
+
+**Web3 Builder & Head of Growth at TeleClaw**
+
+- 🛠️ **Focus:** Consumer Web3 products, Telegram-native AI agents and trading tools
+- 🚀 **Building:** social bounty platforms with on-chain payouts, prediction-market copilots and perps trading bots
+- 📈 **Growth:** 2+ years of community management and growth across Telegram, Discord and X
 
 <!--
 **ahmardchain/ahmardchain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
