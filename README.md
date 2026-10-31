@@ -1,4 +1,4 @@
-<img src="./intro.svg" alt="hi, i'm ahmard — i'm a solo builder, i build web3 & ai agents" width="100%" />
+<img src="./intro.svg" alt="hi, i'm ahmard — i'm a solo builder, building across web3 & ai agents" width="100%" />
 
 ```
 ROLE ......... Web3 Builder
