@@ -1,3 +1,5 @@
+<img src="./banner.svg" alt="AHMARD — Web3 builder, Head of Growth at TeleClaw. A chain of shipped projects: Climb, Previs, Perch, Chog Pal, FirstBell, Turno, TeleClaw." width="100%" />
+
 ## 🪪 Builder ID
 
 <img src="./dialog.svg" alt="AHMARD: Hey there! I'm Ahmard. I build Web3 apps and Telegram AI agents, and grow the communities around them." width="100%" />
