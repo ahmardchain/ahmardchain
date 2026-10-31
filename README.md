@@ -1,4 +1,4 @@
-<img src="./intro.svg" alt="hi, i'm ahmard" width="100%" />
+<img src="./intro.svg" alt="hi, i'm ahmard — i'm a solo builder" width="100%" />
 
 <img src="./banner.svg" alt="AHMARD — Web3 builder" width="100%" />
 
