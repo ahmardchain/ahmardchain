@@ -1,4 +1,8 @@
-## Hi there 👋
+CLASS ........ Builder · Growth Lead
+SPECIALTY .... Consumer Web3 · Telegram AI Agents · Trading Tools
+QUEST LOG .... social bounties & on-chain payouts
+               prediction-market copilots & perps bots
+               community growth across Telegram, Discord & X
 
 <!--
 **ahmardchain/ahmardchain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
