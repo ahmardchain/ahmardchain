@@ -1,11 +1,14 @@
 <img src="./intro.svg" alt="hi, i'm ahmard — i'm a solo builder, building across web3 & ai agents" width="100%" />
 
 ```
-ROLE ......... Web3 Builder
-SPECIALTY ........ Consumer Web3 · AI Agents · Trading Tools
-BUILDING ..... social bounties & on-chain payouts
-               prediction-market copilots & perps bots
-               community growth across Telegram, Discord & X
+Role:    Solo Builder
+specialty: Confidential DeFi · Auditable AI Agents · Dev Tooling
+Building:
+  - sealed bids
+  - ZK settlement
+  - private execution
+  - agents with receipts, attestations & on-chain proofs
+  - MCP servers, debugging & diagnostics
 ```
 
 <img alt="Ahmad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmardchain&show_icons=true&include_all_commits=true&count_private=true&bg_color=1d2b53&title_color=ffec27&text_color=fff1e8&icon_color=29adff&ring_color=ff004d&border_color=0b1229&border_radius=0" />
