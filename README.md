@@ -2,10 +2,10 @@
 
 ```
 Role:    Solo Builder
-specialty: Confidential DeFi · Auditable AI Agents · Dev Tooling
+specialty: defi . web3 consumer apps · Auditable AI Agents · Dev Tooling
 Building:
   - sealed bids
-  - ZK settlement
+  - wallet settlement
   - private execution
   - agents with receipts, attestations & on-chain proofs
   - MCP servers, debugging & diagnostics
